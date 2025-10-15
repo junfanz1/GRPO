@@ -456,14 +456,6 @@ Search-R1 demonstrates how **neural reasoning** can be combined with **symbolic 
 
 ---
 
-## 📜 Citation
+## 📜 References
 
-If you find this project useful, please cite or star the repo 🌟
-
-```bibtex
-@software{search_r1_2025,
-  title={Search-R1: Reinforcement Fine-Tuning for Agentic RAG via GRPO},
-  author={Zhu, Junfan},
-  year={2025},
-  url={https://github.com/yourusername/Search-R1}
-}
+- [Hands on LLM CN, Chaofa Yuan](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN)
