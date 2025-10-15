@@ -1,4 +1,4 @@
-# 🧠 From Policy Gradient to GRPO: Reinforcement Learning for Agentic Search in LLMs
+# Reinforcement Learning for Agentic Search in LLMs
 
 ### — A Deep Dive into Search-R1 and Reward-Guided Reasoning
 
