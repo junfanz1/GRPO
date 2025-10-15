@@ -1,5 +1,7 @@
 # Reinforcement Learning for Agentic Search in LLMs
 
+Search-R1 fine-tunes LLMs to decide when to search and when to answer using reinforcement learning over multi-step trajectories. It employs Group Relative Policy Optimization (GRPO) for stable token-level updates without a critic. The model learns adaptive retrieval policies, dynamically integrating search results to construct context and improve reasoning accuracy.
+
 ### — A Deep Dive into Search-R1 and Reward-Guided Reasoning
 
 > *“What if LLMs could learn **when to search** and **when to answer** — just like humans refining their thoughts through Google?”*
